@@ -1,5 +1,5 @@
 # Introduction-to-Embedded-Systems-Course
-Course Introduction to Embedded Systems taught at the ICAT
+Course Introduction to Embedded Systems in ICAT(UNAM)
 
 
 <div align="center">
